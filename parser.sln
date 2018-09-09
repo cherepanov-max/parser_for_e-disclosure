@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "parser", "parser\parser.pyproj", "{E21A2F05-1758-4DFD-B204-9B0ADE6C2BB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E21A2F05-1758-4DFD-B204-9B0ADE6C2BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21A2F05-1758-4DFD-B204-9B0ADE6C2BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78B36A5E-E9D1-4B0B-ABD1-EE2A8403BC66}
+	EndGlobalSection
+EndGlobal
